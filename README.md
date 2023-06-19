@@ -7,7 +7,7 @@
 
 ## repo link : https://github.com/Hamzamt99/api-server
 
-## live url : https://basic-express-server-btkf.onrender.com
+## live url : https://api-server-idu4.onrender.com/
 
 ## Uml Diagram :
 ![uml](./src/assets/uml.jpg)
