@@ -1,11 +1,11 @@
 # api-server
 
 
-## Action Link : https://github.com/Hamzamt99/basic-express-server/actions
+## Action Link : https://github.com/Hamzamt99/api-server/actions
 
-## Pull Link : https://github.com/Hamzamt99/basic-express-server/pull/7
+## Pull Link : https://github.com/Hamzamt99/api-server/pull/1
 
-## repo link : https://github.com/Hamzamt99/basic-express-server
+## repo link : https://github.com/Hamzamt99/api-server
 
 ## live url : https://basic-express-server-btkf.onrender.com
 
