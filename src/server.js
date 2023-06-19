@@ -7,6 +7,8 @@ const error404 = require('./error-handlers/404')
 
 const error500 = require('./error-handlers/500')
 
+const home= require('./routes/home')
+
 const app = express();
 
 const clotheRouter = require('./routes/clothes')
@@ -16,6 +18,7 @@ const foodRouter = require('./routes/food')
 app.use(cors())
 app.use(express.json());
 
+app.use(home)
 app.use(clotheRouter)
 app.use(foodRouter)
 
