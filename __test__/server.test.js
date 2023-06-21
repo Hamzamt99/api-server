@@ -8,7 +8,7 @@ const { app } = require('../src/server')
 
 const req = supertest(app)
 
-const { db, Clothes } = require('../src/models/index')
+const { db } = require('../src/models/index')
 
 beforeAll(async () => {
     await db.sync();
