@@ -3,7 +3,7 @@
 
 ## Action Link : https://github.com/Hamzamt99/api-server/actions
 
-## Pull Link : https://github.com/Hamzamt99/api-server/pull/1
+## Pull Link : https://github.com/Hamzamt99/api-server/pull/3
 
 ## repo link : https://github.com/Hamzamt99/api-server
 
